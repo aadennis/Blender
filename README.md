@@ -26,4 +26,4 @@ Pascal case. For example: "WoodchipPath.blend"
 
 
 1. **image** - denotes a material that is an image (jpeg, png, etc). It stands at the end of a name, with an underscore immediately before it, as in "_image"  
-1. **ihost** - its only purpose is to host a reference image. It stands at the end of a name - see "image"  
+1. **ihost** - short for "image host". Its only purpose is to host a reference image. It stands at the end of a name - see "image"  
