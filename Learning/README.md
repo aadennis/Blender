@@ -14,3 +14,7 @@ Trying to rig a woman using the skin, mirror and subsurf modifiers. Must try har
 
 <img width="290" alt="image" src="https://user-images.githubusercontent.com/11707983/197406896-68467c47-e7ec-43c5-b20b-99a276f5a76c.png">
 
+Pleased with how this at least is going...
+
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/11707983/197407805-cbf8814d-411b-454c-adbc-8851ac1e3279.png">
+
