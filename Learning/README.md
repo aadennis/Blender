@@ -8,3 +8,9 @@ The copper colour is actually pink when not metallic, that is hex E795B0 / Metal
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/11707983/195389878-e9e53133-a0dd-4cbc-98dd-9e1efbd45e62.png">
 
+23.10.2022
+
+Trying to rig a woman using the skin, mirror and subsurf modifiers. Must try harder...
+
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/11707983/197406896-68467c47-e7ec-43c5-b20b-99a276f5a76c.png">
+
